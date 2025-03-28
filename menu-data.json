@@ -1,0 +1,958 @@
+{
+  "Soups": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Veg Manchow Soup",
+        "food-price": "4.99",
+        "description": ""
+      },
+      {
+        "food-title": "Mizhagu Rasam",
+        "food-price": "4.99",
+        "description": ""
+      },
+      {
+        "food-title": "Naatu Kozhi Saaru",
+        "food-price": "6.99",
+        "description": ""
+      },
+      {
+        "food-title": "Goat leg Soup",
+        "food-price": "6.99",
+        "description": ""
+      }
+    ]
+  },
+
+  "Veg-Appetizers": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Salem RR Special Jalapeno Paneer",
+        "food-price": "10.99",
+        "description": ""
+      },
+      {
+        "food-title": "Salem RR Special Karuvepillai Paneer",
+        "food-price": "10.99",
+        "description": ""
+      },
+      {
+        "food-title": "Salem RR Special Veg Ball Manchurian",
+        "food-price": "10.99",
+        "description": ""
+      },
+      {
+        "food-title": "Gobi 65",
+        "food-price": "9.99",
+        "description": ""
+      },
+      {
+        "food-title": "Gobi Manchurian",
+        "food-price": "9.99",
+        "description": ""
+      },
+      {
+        "food-title": "Paneer 65",
+        "food-price": "10.99",
+        "description": ""
+      },
+      {
+        "food-title": "Paneer Manchurian",
+        "food-price": "10.99",
+        "description": ""
+      },
+      {
+        "food-title": "Mushroom 65",
+        "food-price": "10.99",
+        "description": ""
+      },
+      {
+        "food-title": "Mushroom Manchurian",
+        "food-price": "10.99",
+        "description": ""
+      },
+      {
+        "food-title": "Babycorn 65",
+        "food-price": "10.99",
+        "description": ""
+      },
+      {
+        "food-title": "Babycorn Manchurian",
+        "food-price": "10.99",
+        "description": ""
+      },
+      {
+        "food-title": "Babycorn Pepper Dry",
+        "food-price": "10.99",
+        "description": ""
+      },
+      {
+        "food-title": "Veg Momos Manchurian",
+        "food-price": "9.99",
+        "description": ""
+      },
+      {
+        "food-title": "Veg Momos Chilli",
+        "food-price": "9.99",
+        "description": ""
+      },
+      {
+        "food-title": "Veg Momos Malai",
+        "food-price": "9.99",
+        "description": ""
+      }
+    ]
+  },
+
+  "Egg-Appetizers": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Omelette",
+        "food-price": "5.99",
+        "description": ""
+      },
+      {
+        "food-title": "Kozhambu Omelette",
+        "food-price": "5.99",
+        "description": ""
+      },
+      {
+        "food-title": "Egg Kalakki",
+        "food-price": "5.99",
+        "description": ""
+      },
+      {
+        "food-title": "Egg Karandi",
+        "food-price": "5.99",
+        "description": ""
+      },
+      {
+        "food-title": "Muttai Poriyal",
+        "food-price": "8.99",
+        "description": ""
+      },
+      {
+        "food-title": "Chilli Egg",
+        "food-price": "8.99",
+        "description": ""
+      }
+    ]
+  },
+
+  "Chicken-Appetizers": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Salem RR Special Chicken Fried Kebab (Bone-In)",
+        "food-price": "12.99",
+        "description": ""
+      },
+      {
+        "food-title": "Salem RR Special (Spicy) Jalapeno Chicken",
+        "food-price": "12.99",
+        "description": ""
+      },
+      {
+        "food-title": "Salem RR Special (Spicy) Chicken Mizhagu Varuval",
+        "food-price": "12.99",
+        "description": ""
+      },
+      {
+        "food-title": "Salem RR Special (Spicy) Andhra Chilli Chicken",
+        "food-price": "12.99",
+        "description": ""
+      },
+      {
+        "food-title": "Chicken 65",
+        "food-price": "11.99",
+        "description": ""
+      },
+      {
+        "food-title": "Chilli Chicken",
+        "food-price": "11.99",
+        "description": ""
+      },
+      {
+        "food-title": "Chicken Manchurian",
+        "food-price": "11.99",
+        "description": ""
+      },
+      {
+        "food-title": "Chicken Lollipop",
+        "food-price": "12.99",
+        "description": ""
+      },
+      {
+        "food-title": "Chicken Manchurian Momos",
+        "food-price": "10.99",
+        "description": ""
+      },
+      {
+        "food-title": "Chicken Malai Momos",
+        "food-price": "10.99",
+        "description": ""
+      }
+    ]
+  },
+
+  "Mutton-Appetizers": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Salem RR Special Mutton Nei Chukka",
+        "food-price": "16.99",
+        "description": ""
+      },
+      {
+        "food-title": "Salem RR Special Goat Chops",
+        "food-price": "16.99",
+        "description": ""
+      },
+      {
+        "food-title": "Salem RR Special Moolai Muttai Varuval",
+        "food-price": "16.99",
+        "description": ""
+      },
+      {
+        "food-title": "Mutton Mizhagu Varuval (Bone-In)",
+        "food-price": "15.99",
+        "description": ""
+      },
+      {
+        "food-title": "Mutton Boti Tawa Fry",
+        "food-price": "15.99",
+        "description": ""
+      },
+      {
+        "food-title": "Mutton Liver Tawa Roast",
+        "food-price": "15.99",
+        "description": ""
+      }
+    ]
+  },
+
+  "Seafood-Appetizers": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Salem RR Special Nethili Fish Fry",
+        "food-price": "14.99",
+        "description": ""
+      },
+      {
+        "food-title": "Salem RR Special Fish Fry (6pcs)",
+        "food-price": "15.99",
+        "description": ""
+      },
+      {
+        "food-title": "Salem RR Special Nandu Pepper Masala",
+        "food-price": "16.99",
+        "description": ""
+      },
+      {
+        "food-title": "Fish 65",
+        "food-price": "13.99",
+        "description": ""
+      },
+      {
+        "food-title": "Fish Manchurian",
+        "food-price": "13.99",
+        "description": ""
+      },
+      {
+        "food-title": "Chilli Fish",
+        "food-price": "13.99",
+        "description": ""
+      },
+      {
+        "food-title": "Prawn 65",
+        "food-price": "13.99",
+        "description": ""
+      },
+      {
+        "food-title": "Prawn Thokku",
+        "food-price": "13.99",
+        "description": ""
+      },
+      {
+        "food-title": "Prawn Manchurian",
+        "food-price": "13.99",
+        "description": ""
+      },
+      {
+        "food-title": "Chilli Prawns",
+        "food-price": "13.99",
+        "description": ""
+      }
+    ]
+  },
+
+  "Salem RR Special Biryani": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Seeraga Samba Chicken Biryani",
+        "food-price": "14.99",
+        "description": ""
+      },
+      {
+        "food-title": "Seeraga Samba Mutton Biryani",
+        "food-price": "16.99",
+        "description": ""
+      },
+      {
+        "food-title": "Salem RR Chennai Veg Biryani",
+        "food-price": "11.99",
+        "description": "Basmati"
+      },
+      {
+        "food-title": "Salem RR Chennai Chicken Biryani",
+        "food-price": "14.99",
+        "description": "Basmati"
+      },
+      {
+        "food-title": "Salem RR Chennai Mutton Thokku Biryani",
+        "food-price": "17.99",
+        "description": "Basmati"
+      },
+      {
+        "food-title": "Chicken Ghee Roast Biryani",
+        "food-price": "15.99",
+        "description": "Basmati"
+      },
+      {
+        "food-title": "Chicken 65 Biryani",
+        "food-price": "15.99",
+        "description": "Basmati"
+      },
+      {
+        "food-title": "Pachimirchi Chicken Biryani",
+        "food-price": "14.99",
+        "description": "Basmati"
+      },
+      {
+        "food-title": "Vijayawada Dum Biryani",
+        "food-price": "14.99",
+        "description": "Basmati"
+      },
+      {
+        "food-title": "Prawns Thokku Biryani",
+        "food-price": "16.99",
+        "description": "Basmati"
+      }
+    ]
+  },
+
+  "Salem RR Special Meals": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Veg Special Meals",
+        "food-price": "13.99",
+        "description": [
+          "Veg Biryani",
+          "Chapathi",
+          "Veg Kuruma",
+          "Rice",
+          "Sambhar",
+          "Puzhi Kuzhambu",
+          "Kootu",
+          "Poriyal",
+          "Appalam",
+          "Rasam",
+          "Curd",
+          "Sweet",
+          "Pickle"
+        ]
+      },
+      {
+        "food-title": "Non-Veg Special Meals",
+        "food-price": "16.99",
+        "description": [
+          "Chapathi",
+          "Rice",
+          "Chicken Kuzhambu",
+          "Mutton Kuzhambu",
+          "Fish Kuzhambu",
+          "Egg Poriyal",
+          "Appalam",
+          "Rasam",
+          "Curd",
+          "Sweet",
+          "Pickle"
+        ]
+      }
+    ]
+  },
+
+  "Weekend Unlimited Special Meals": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Veg Virundhu",
+        "food-price": "18.99",
+        "description": [
+          "Chapathi/Parotta",
+          "Veg Biryani",
+          "Veg Appetizer",
+          "RR Special Veg Meals",
+          "Paan"
+        ]
+      },
+      {
+        "food-title": "Non-Veg Virundhu",
+        "food-price": "21.99",
+        "description": [
+          "Chapathi/Parotta",
+          "Chicken Biryani",
+          "Chicken Appetizer",
+          "RR Special Non-Veg Meals",
+          "Paan"
+        ]
+      }
+    ]
+  },
+
+  "Indo Chinese": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Jeera Rice",
+        "food-price": "9.99"
+      },
+      {
+        "food-title": "Burned Garlic Fried Rice",
+        "food-price": "10.99"
+      },
+      {
+        "food-title": "Street Style Veg Fried Rice",
+        "food-price": "10.99"
+      },
+      {
+        "food-title": "Street Style Veg Noodles",
+        "food-price": "10.99"
+      },
+      {
+        "food-title": "Street Egg Fried Rice",
+        "food-price": "11.99"
+      },
+      {
+        "food-title": "Street Egg Noodles",
+        "food-price": "11.99"
+      },
+      {
+        "food-title": "Street Style Chicken Fried Rice",
+        "food-price": "13.99"
+      },
+      {
+        "food-title": "Street Style Chicken Noodles",
+        "food-price": "13.99"
+      },
+      {
+        "food-title": "Schezwan Veg Fried Rice",
+        "food-price": "11.99"
+      },
+      {
+        "food-title": "Schezwan Veg Noodles",
+        "food-price": "11.99"
+      },
+      {
+        "food-title": "Schezwan Egg Fried Rice",
+        "food-price": "12.99"
+      },
+      {
+        "food-title": "Schezwan Chicken Fried Rice",
+        "food-price": "14.99"
+      }
+    ]
+  },
+
+  "RR SPECIAL Koora Kadai Parotta": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Chapati (1)",
+        "food-price": "2.49"
+      },
+      {
+        "food-title": "Parotta (1)",
+        "food-price": "2.99"
+      },
+      {
+        "food-title": "Veechu Parotta",
+        "food-price": "10.99"
+      },
+      {
+        "food-title": "Muttai Veechu Parotta",
+        "food-price": "11.99"
+      },
+      {
+        "food-title": "Bun Parotta",
+        "food-price": "9.99"
+      },
+      {
+        "food-title": "Poricha Parotta",
+        "food-price": "9.99"
+      },
+      {
+        "food-title": "Nool Parotta",
+        "food-price": "9.99"
+      },
+      {
+        "food-title": "Coin Parotta",
+        "food-price": "10.99"
+      },
+      {
+        "food-title": "Chicken Stuffed Parotta",
+        "food-price": "11.99"
+      },
+      {
+        "food-title": "Mutton Stuffed Parotta",
+        "food-price": "13.99"
+      },
+      {
+        "food-title": "Chapati (2) Veg Salna",
+        "food-price": "8.99"
+      },
+      {
+        "food-title": "Chapati (2) Non-Veg Salna",
+        "food-price": "9.99"
+      },
+      {
+        "food-title": "Parotta (2) Veg Salna",
+        "food-price": "9.99"
+      },
+      {
+        "food-title": "Parotta (2) Non-Veg Salna",
+        "food-price": "10.99"
+      },
+      {
+        "food-title": "Veg Kothu Parotta",
+        "food-price": "10.99"
+      },
+      {
+        "food-title": "Egg Kothu Parotta",
+        "food-price": "11.99"
+      },
+      {
+        "food-title": "Chicken Kothu Parotta",
+        "food-price": "13.99"
+      },
+      {
+        "food-title": "Mutton Kothu Parotta",
+        "food-price": "15.49"
+      },
+      {
+        "food-title": "Parotta Kuzhambu Pirattal Veg",
+        "food-price": "10.99"
+      },
+      {
+        "food-title": "Parotta Kuzhambu Pirattal Nonveg",
+        "food-price": "12.99"
+      }
+    ]
+  },
+
+  "Tiffins": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Idly (3)",
+        "food-price": "8.99"
+      },
+      {
+        "food-title": "Idiyappam (3) with Coconut Milk",
+        "food-price": "8.99"
+      },
+      {
+        "food-title": "Plain Dosa",
+        "food-price": "8.99"
+      },
+      {
+        "food-title": "Masala Dosa",
+        "food-price": "10.99"
+      },
+      {
+        "food-title": "Mysore Masala Dosa",
+        "food-price": "11.99"
+      },
+      {
+        "food-title": "Rameshwaram Dosa",
+        "food-price": "12.99"
+      },
+      {
+        "food-title": "Benne Dosa",
+        "food-price": "12.99"
+      },
+      {
+        "food-title": "Egg Dosa (2)",
+        "food-price": "11.99"
+      },
+      {
+        "food-title": "Ghee Roast",
+        "food-price": "12.99"
+      },
+      {
+        "food-title": "Onion Kal Dosa",
+        "food-price": "10.99"
+      },
+      {
+        "food-title": "Egg Kuzhambu Dosa",
+        "food-price": "11.99"
+      },
+      {
+        "food-title": "Chicken Curry Dosa",
+        "food-price": "12.99"
+      },
+      {
+        "food-title": "Mutton Curry Dosa",
+        "food-price": "13.99"
+      }
+    ]
+  },
+
+  "Veg Curries": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Dal Fry",
+        "food-price": "9.99"
+      },
+      {
+        "food-title": "Sambar",
+        "food-price": "6.99"
+      },
+      {
+        "food-title": "Veg Kuruma",
+        "food-price": "8.99"
+      },
+      {
+        "food-title": "Veg Navaratna Kuruma",
+        "food-price": "10.99"
+      },
+      {
+        "food-title": "Mix Veg Curry",
+        "food-price": "10.99"
+      },
+      {
+        "food-title": "Green Peas Masala",
+        "food-price": "10.99"
+      },
+      {
+        "food-title": "Channa Masala",
+        "food-price": "10.99 "
+      },
+      {
+        "food-title": "Veg Kadai Curry",
+        "food-price": "11.99"
+      },
+      {
+        "food-title": "Methi Prawns",
+        "food-price": "12.99"
+      },
+      {
+        "food-title": "Methi Malai Paneer",
+        "food-price": "12.49"
+      },
+      {
+        "food-title": "Paneer Kaju Matar Masala",
+        "food-price": "12.49"
+      },
+      {
+        "food-title": "Paneer Matar Masala",
+        "food-price": "12.49"
+      },
+      {
+        "food-title": "Paneer Butter Masala",
+        "food-price": "12.49"
+      },
+      {
+        "food-title": "Paneer Kadai Curry",
+        "food-price": "12.49"
+      }
+    ]
+  },
+
+  "Egg Curries": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Egg Kuruma",
+        "food-price": "12.49"
+      },
+      {
+        "food-title": "Egg Ghee Roast Curry",
+        "food-price": "12.49"
+      },
+      {
+        "food-title": "Udacha Muttai Masala",
+        "food-price": "12.49"
+      }
+    ]
+  },
+
+  "Chicken Curries": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Karaikudi Chicken Gravy",
+        "food-price": "12.99"
+      },
+      {
+        "food-title": "Gongura Chicken Curry",
+        "food-price": "13.99"
+      },
+      {
+        "food-title": "Chicken Chukka Gravy",
+        "food-price": "13.99"
+      },
+      {
+        "food-title": "Chicken Milagu Masala",
+        "food-price": "13.99"
+      },
+      {
+        "food-title": "Butter Chicken Masala",
+        "food-price": "13.99"
+      },
+      {
+        "food-title": "Chicken Tikka Masala",
+        "food-price": "13.99"
+      },
+      {
+        "food-title": "Chicken Kadai Curry",
+        "food-price": "13.99"
+      },
+      {
+        "food-title": "Chicken Mughlai",
+        "food-price": "13.99"
+      }
+    ]
+  },
+
+  "Mutton Curries": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Karaikudi Mutton Masala",
+        "food-price": "15.99"
+      },
+      {
+        "food-title": "Andra Mutton Koora",
+        "food-price": "15.99"
+      },
+      {
+        "food-title": "Gongura Mutton Curry",
+        "food-price": "15.99"
+      },
+      {
+        "food-title": "Mutton Mizagu Masala",
+        "food-price": "15.99"
+      },
+      {
+        "food-title": "Mutton Boti Gravy",
+        "food-price": "15.99"
+      },
+      {
+        "food-title": "Mutton Chops Gravy",
+        "food-price": "16.99"
+      }
+    ]
+  },
+
+  "Seafood Curries": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Kara Sara Meen Kozhambu",
+        "food-price": "12.99"
+      },
+      {
+        "food-title": "Royyalu Koora",
+        "food-price": "13.99"
+      },
+      {
+        "food-title": "Nandu Masala",
+        "food-price": "16.99"
+      },
+      {
+        "food-title": "Gongura Prawn Curry",
+        "food-price": "14.99"
+      }
+    ]
+  },
+
+  "Breads": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Butter Naan",
+        "food-price": "2.99"
+      },
+      {
+        "food-title": "Butter Roti",
+        "food-price": "2.99"
+      },
+      {
+        "food-title": "Garlic Naan",
+        "food-price": "3.99"
+      },
+      {
+        "food-title": "Lacha Paratha",
+        "food-price": "3.99"
+      }
+    ]
+  },
+
+  "Kebabs": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Tandoori Chicken Leg Quarters (2 pcs)",
+        "food-price": "10.99"
+      },
+      {
+        "food-title": "Tandoori Chicken Leg Quarters (4 pcs)",
+        "food-price": "16.99"
+      },
+      {
+        "food-title": "Tangdi Kebab (4 pcs)",
+        "food-price": "12.99"
+      },
+      {
+        "food-title": "Chicken Tikka",
+        "food-price": "12.99"
+      },
+      {
+        "food-title": "Reshmi Kebab",
+        "food-price": "12.99"
+      },
+      {
+        "food-title": "Hariyali Kebab",
+        "food-price": "12.99"
+      },
+      {
+        "food-title": "Mutton Gadi Chops",
+        "food-price": "15.99"
+      },
+      {
+        "food-title": "Assorted Platter Kebab's(10pcs)",
+        "food-price": "18.99"
+      }
+    ]
+  },
+
+  "Rolls and Sandwiches": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Panner Frankie Roll",
+        "food-price": "7.99"
+      },
+      {
+        "food-title": "Egg Frankie Roll",
+        "food-price": "7.99"
+      },
+      {
+        "food-title": "Chicken Frankie Roll",
+        "food-price": "8.99"
+      },
+      {
+        "food-title": "Chicken Tikka Roll",
+        "food-price": "9.99"
+      },
+      {
+        "food-title": "Grilled Veg Sandwich",
+        "food-price": "7.99"
+      },
+      {
+        "food-title": "Grilled Panner Bhurji Sandwich",
+        "food-price": "8.99"
+      },
+      {
+        "food-title": "Grilled Cheese Sandwich",
+        "food-price": "8.99"
+      },
+      {
+        "food-title": "Grilled Egg Club Sandwich",
+        "food-price": "9.99"
+      },
+      {
+        "food-title": "Grilled Chicken Club Sandwich",
+        "food-price": "10.99"
+      }
+    ]
+  },
+
+  "Dessert & Drinks": {
+    "menu-tag": "",
+    "items": [
+      {
+        "food-title": "Gulab Jamun",
+        "food-price": "3.99"
+      },
+      {
+        "food-title": "Carrot Halwa",
+        "food-price": "3.99"
+      },
+      {
+        "food-title": "Bread Halwa",
+        "food-price": "3.99"
+      },
+      {
+        "food-title": "Double Ka Meetha",
+        "food-price": "4.99"
+      },
+      {
+        "food-title": "Semiya Payasam",
+        "food-price": "4.99"
+      },
+      {
+        "food-title": "Elaneer Payasam",
+        "food-price": "4.99"
+      },
+      {
+        "food-title": "Masala Butter Milk",
+        "food-price": "3.49"
+      },
+      {
+        "food-title": "Rosemilk",
+        "food-price": "3.49"
+      },
+      {
+        "food-title": "Mango Lassi",
+        "food-price": "3.49"
+      },
+      {
+        "food-title": "Chiku Shake",
+        "food-price": "3.49"
+      },
+      {
+        "food-title": "Sitaphal Shake",
+        "food-price": "3.49"
+      },
+      {
+        "food-title": "Nannari Sarbath",
+        "food-price": "3.49"
+      },
+      {
+        "food-title": "Sprite",
+        "food-price": "2.49"
+      },
+      {
+        "food-title": "Coke",
+        "food-price": "2.49"
+      },
+      {
+        "food-title": "Thumps Up",
+        "food-price": "2.49"
+      },
+      {
+        "food-title": "Falooda",
+        "food-price": "9.99"
+      }
+    ]
+  }
+}
